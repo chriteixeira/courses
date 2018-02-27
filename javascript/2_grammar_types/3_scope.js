@@ -18,7 +18,7 @@ if (true) {
 console.log(x);
 console.log(y);
 console.log(z);
-//console.log(w);
+console.log(w);
 
 
 console.log(i);
