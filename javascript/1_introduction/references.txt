@@ -1,0 +1,10 @@
+
+Links:
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+    http://es6-features.org/
+    https://eloquentjavascript.net/
+    https://en.wikipedia.org/wiki/ECMAScript
+
+Editor:
+    Visual Studio code: https://code.visualstudio.com/
+    

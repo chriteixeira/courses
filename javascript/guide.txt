@@ -1,0 +1,36 @@
+Introduction
+    - About js
+    - Where to run
+    - ECMAScript
+
+Grammar e Types
+    - Syntax
+    - Declarations
+    - Var scope
+    - let vs Var
+    - const     
+
+Flows/Loops
+
+Expressions and operators
+
+Functions
+    Parameters, argument, default parameters, spread    
+    Closures
+    Arrow functions
+    
+
+Objects and Object Model
+
+Prototype/Class
+    Diferences
+    Inheritance
+    Static members
+    Getter/Setter
+
+
+Callbacks, Promises, Error
+
+Arrays, Typed Arrays
+
+Module, Require, Exports, Import, default, wildcard
